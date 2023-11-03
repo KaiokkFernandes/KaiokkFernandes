@@ -2,7 +2,7 @@ Claro! Abaixo está um exemplo de um README para sua apresentação no GitHub:
 
 ---
 
-# Hello there! 👋
+# Hello 👋
 
 ## About Me
 
