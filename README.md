@@ -2,17 +2,17 @@ Claro! Abaixo está um exemplo de um README para sua apresentação no GitHub:
 
 ---
 
-# Hello 👋
+# Hello 
 
 ## About Me
 
 I'm **Kaio Vittor**.
 
-🎓 Currently studying **Information Systems** at **UFSM (Federal University of Santa Maria)**.
+ Currently studying **Information Systems** at **UFSM (Federal University of Santa Maria)**.
 
-🔍 Passionate about technology and always eager to learn and explore new domains.
+ Passionate about technology and always eager to learn and explore new domains.
 
-🌱 I have experience with several programming languages, and I'm continuously expanding my skills.
+ I have experience with several programming languages, and I'm continuously expanding my skills.
 
 ## Languages I Know:
 - C#
