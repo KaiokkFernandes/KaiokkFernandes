@@ -24,3 +24,4 @@ I'm **Kaio Vittor**.
 ## Let's Connect!
 
 Feel free to reach out to me if you want to chat about technology, projects, or collaborations. I'm always open to new opportunities and connections.
+my portfolio : https://leafy-fox-7ae830.netlify.app
