@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Blazor webassembly**
 
-- 👨‍💻 All of my projects are available at [https://leafy-fox-7ae830.netlify.app](https://leafy-fox-7ae830.netlify.app)
+- 👨‍💻 My portfolio [https://leafy-fox-7ae830.netlify.app](https://leafy-fox-7ae830.netlify.app)
 
 - 📫 How to reach me **kaiovittorg@gmail.com**
 
