@@ -1,25 +1,40 @@
 # Olá, eu sou o Kaio Fernandes 👋
 
-**Desenvolvedor Full Stack**
+**Desenvolvedor Full Stack** em Santa Maria, RS, com cerca de 3 anos de experiência construindo produtos do banco de dados à interface. Foco em **TypeScript, Node.js, NestJS, React e Next.js**.
 
-- Portfolio: **https://lesfly-fiox-7ae830.netlify.app**
+> Full Stack Developer (about 3 years) focused on TypeScript, Node.js, NestJS, React and Next.js. Open to remote opportunities.
 
----
-
-### Linguagens e Ferramentas
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+📫 [kaiovittorg@gmail.com](mailto:kaiovittorg@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/kaio-fernandes-4a579b211/) · 🌐 [Portfólio](https://kaio-portifolio-kappa.vercel.app)
 
 ---
 
-### 📫 Entre em Contato
+## O que eu faço
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-fernandes-4a579b211/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiovittorg@gmail.com)
+- **APIs e integrações:** REST e GraphQL com Node.js e NestJS, integrações com serviços externos e mensageria (RabbitMQ e Kafka, com CDC via Debezium).
+- **Front-end:** portais, dashboards e design system com React, Next.js e TypeScript (Storybook, testes com Jest e React Testing Library).
+- **IA aplicada:** integração de LLMs (ChatGPT e Claude) em produtos, como chat em tempo real e análise de dados pelo WhatsApp.
+- **Qualidade:** Clean Architecture, SOLID, testes automatizados, code review, Docker e CI/CD.
+
+## Experiência
+
+| Empresa | Contexto | Destaques |
+|---|---|---|
+| **Jetimob** (2025–2026) | Portais, CRM e analytics para o mercado imobiliário | Plataforma de analytics em tempo real (Kafka e Debezium), CMS com design system em Storybook, WhatsApp com IA, refatoração de cerca de 60% de um CRM legado em PHP para Clean Architecture |
+| **FORTE Security** (2024–2025) | Plataforma de cibersegurança | APIs em Node.js/NestJS, Golang e Python, integração com a API do Acronis via Kafka, chat com IA em tempo real, microsserviços de assinatura digital com foco em LGPD |
+| **FISMA** (2023–2024) | Sistema universitário em C#/.NET | Módulos de matrículas, financeiro e relatórios, com 80% de cobertura de testes e relatórios 40% mais rápidos |
+
+## Stack
+
+**Linguagens e frameworks:** TypeScript · JavaScript · Node.js · NestJS · React · Next.js · Vue.js · Angular · Python (FastAPI) · PHP (Laravel) · C# (.NET)
+
+**Dados e mensageria:** PostgreSQL · MySQL · MongoDB · DynamoDB · Redis · Kafka · RabbitMQ
+
+**Infra e qualidade:** Docker · Kubernetes · AWS · GitHub Actions · Jest · TDD
+
+## Formação
+
+Bacharelado em Sistemas de Informação, UFSM (2022 – atual).
+
+---
+
+Aberto a conversas sobre vagas **Full Stack**, **Back-end Node.js** ou **Front-end React**. Vamos conversar? ✉️
